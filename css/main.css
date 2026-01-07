@@ -1,12 +1,12 @@
 .jumbotron {
-  background-color: #F1502F;
+  background-color: #1b8e43;
   color: black;
   margin-top: 50px;
   margin-bottom: 10px; }
 
 footer {
   padding: 10px 10px 0 10px;
-  background-color: #F1502F;
+  background-color: #1b8e43;
   margin-top: 10px;
   margin-bottom: 0px; }
 
@@ -14,4 +14,4 @@ footer {
     flex: 1 200px;
     margin-top: 10px;
     margin-bottom: 0px;
-    background-color: #dadada38; }
+    background-color: #36a5ca47; }
